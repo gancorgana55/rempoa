@@ -13,5 +13,23 @@
     "nodemailer": "^6.9.13",
     "ranteamotor": "^2.0.2",
     "yuaivers": "^1.0.0"
-  }
+  },
+  "name": "rempoa",
+  "version": "2.0.2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gancorgana55/rempoa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gancorgana55/rempoa/issues"
+  },
+  "homepage": "https://github.com/gancorgana55/rempoa#readme",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)."
 }
