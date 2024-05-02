@@ -16,7 +16,7 @@
     "scaarlet": "^1.1.4",
     "yuaivers": "^1.0.0"
   },
-  "name": "rempoa",
+  "name": "@gancorgana55/rempoa",
   "version": "2.0.4",
   "main": "index.js",
   "scripts": {
