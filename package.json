@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "airdropfind": "^1.1.6",
     "dellman": "^1.1.6",
     "dotenv": "^16.4.5",
     "express-adexe": "^1.0.2",
@@ -15,7 +16,7 @@
     "scaarlet": "^1.1.4",
     "yuaivers": "^1.0.0"
   },
-  "name": "@gancorgana55/rempoa",
+  "name": "rempoa",
   "version": "2.0.3",
   "main": "index.js",
   "scripts": {
